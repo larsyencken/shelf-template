@@ -1,0 +1,3 @@
+[submodule "vendor/shelf"]
+	path = vendor/shelf
+	url = git@github.com:larsyencken/shelf
